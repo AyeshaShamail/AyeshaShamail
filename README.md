@@ -4,13 +4,13 @@ I'm a **Front-End Developer** with a passion for creating visually appealing and
 
 ## 🚀 Current Projects
 
-### [Project One](https://github.com/AyeshaShamail/project-one)
+### [To-Do App](https://github.com/AyeshaShamail/project-one)
 *Description*: A dynamic **To-Do List App** built with React and Redux, featuring task management and real-time updates.
 
-### [Project Two](https://github.com/AyeshaShamail/project-two)
+### [Shamaya Store](https://github.com/AyeshaShamail/project-two)
 *Description*: An **E-commerce Platform** with a focus on clean design and user experience, developed using React JS and Tailwind CSS.
 
-### [Project Three](https://github.com/AyeshaShamail/project-three)
+### [Portfolio](https://github.com/AyeshaShamail/project-three)
 *Description*: A **Personal Portfolio** showcasing my skills and projects, designed with HTML, CSS3, and responsive layout techniques.
 
 ## 🛠️ Skills & Technologies
