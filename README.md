@@ -7,7 +7,7 @@ I'm a **Front-End Developer** with a passion for creating visually appealing and
 ### [To-Do App](https://github.com/AyeshaShamail/project-one)
 *Description*: A dynamic **To-Do List App** built with React and Redux, featuring task management and real-time updates.
 
-### [Shamaya Store](https://github.com/AyeshaShamail/project-two)
+### [Shamaya Store](https://shamayacart.netlify.app/)
 *Description*: An **E-commerce Platform** with a focus on clean design and user experience, developed using React JS and Tailwind CSS.
 
 ### [Portfolio](https://github.com/AyeshaShamail/project-three)
@@ -19,6 +19,7 @@ I'm a **Front-End Developer** with a passion for creating visually appealing and
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React-admin](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
